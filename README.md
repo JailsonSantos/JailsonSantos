@@ -2,20 +2,20 @@
 
 ```javascript
  
-									const WhoAmI = {
-									  pronouns: "he" | "his",
-									  user: "Jailson Santos",
-									  role: "Full-Stack Developer",
-									  hobbies: [
-									   "Beach",
-									   "Shoping",
-									   "Studying",
-									   "Watch cartoons",
-									}
+							const WhoAmI = {
+							  pronouns: "he" | "his",
+							  user: "Jailson Santos",
+							  role: "Full-Stack Developer",
+							  hobbies: [
+							   "Beach",
+							   "Shoping",
+							   "Studying",
+							   "Watch cartoons",
+							}
 
-									 function getCurrentCity() {
-										return Sao_Luis_Brazil
-									 }
+							 function getCurrentCity() {
+								return Sao_Luis_Brazil
+							 }
 
  ```
 
