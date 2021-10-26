@@ -3,16 +3,18 @@
 ```javascript
  
 						const AboutMe = {
-						  pronouns: "He" | "His",
-						  user: "Jailson Santos",
-						  role: "Full Stack Developer Training ",
-						  company: "Moroh Software",
-						  hobbies: [
-						   "Beach",
-						   "Shoping",
-						   "Electronic Games",
-						   "Study Technologies",
-						   "Watch Cartoons",
+						        pronouns: "He" | "His",
+						        user: "Jailson Santos",
+						        role: "Full Stack Developer Training ",
+						        company: "Moroh Software",
+						    
+						    hobbies: [
+						        "Beach",
+						        "Shoping",
+						        "Electronic Games",
+						        "Study Technologies",
+						        "Watch Cartoons",
+						    ]
 						}
 
 						 function getCurrentCity() {
