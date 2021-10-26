@@ -56,6 +56,12 @@
 </p>
 
 <p align="right"> 
+<a href="https://nodejs.org/en/docs/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="100" height="100"/>
+</a>
+</p>
+
+<p align="left"> 
 <a href="https://www.php.net" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="100" height="100"/>
 </a>
