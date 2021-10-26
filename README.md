@@ -32,7 +32,7 @@
 </p>
 
 <p align="center"> 
-<a href="https://www.w3.org/html/" target="_blank"> 
+<a href="https://www.w3schools.com/html/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="100" height="100"/> 
 </a>
 </p>
@@ -68,7 +68,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">  
-  <a href = "mailto:jailson.ads007@gmail.com@gmail.com">
+  <a href = "mailto:jailson.ads007@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">  
   </a>
   <a href="https://www.linkedin.com/in/jailson-santos-726395104/" target="_blank">
