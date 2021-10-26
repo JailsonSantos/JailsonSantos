@@ -1,23 +1,23 @@
-### Hi there 👋
+### Hi, Devs 👋
 
 ```javascript
  
-							const AboutMe = {
-							  pronouns: "He" | "His",
-							  user: "Jailson Santos",
-							  role: "Full Stack Developer Training ",
-							  company: "Moroh Software",
-							  hobbies: [
-							   "Beach",
-							   "Shoping",
-							   "Electronic Games",
-							   "Study Technologies",
-							   "Watch Cartoons",
-							}
+						const AboutMe = {
+						  pronouns: "He" | "His",
+						  user: "Jailson Santos",
+						  role: "Full Stack Developer Training ",
+						  company: "Moroh Software",
+						  hobbies: [
+						   "Beach",
+						   "Shoping",
+						   "Electronic Games",
+						   "Study Technologies",
+						   "Watch Cartoons",
+						}
 
-							 function getCurrentCity() {
-								return Sao_Luis_Brazil
-							 }
+						 function getCurrentCity() {
+							return Sao_Luis_Brazil
+						 }
 
  ```
 
