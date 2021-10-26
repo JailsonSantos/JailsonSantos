@@ -2,15 +2,17 @@
 
 ```javascript
  
-							const WhoAmI = {
-							  pronouns: "he" | "his",
+							const AboutMe = {
+							  pronouns: "He" | "His",
 							  user: "Jailson Santos",
-							  role: "Full-Stack Developer",
+							  role: "Full Stack Developer Training ",
+							  company: "Moroh Software",
 							  hobbies: [
 							   "Beach",
 							   "Shoping",
-							   "Studying",
-							   "Watch cartoons",
+							   "Electronic Games",
+							   "Study Technologies",
+							   "Watch Cartoons",
 							}
 
 							 function getCurrentCity() {
