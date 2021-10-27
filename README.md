@@ -1,6 +1,6 @@
 ### Hi, Devs 👋
 
-```javascript
+``javascript
  
 const AboutMe = {
       pronouns: "He" | "His",
@@ -15,14 +15,16 @@ const AboutMe = {
 	     "Electronic Games",
 	     "Study Technologies",
 	     "Watch Cartoons",
-         ]
-      }
+         ],
+	 
+      challenge: "Read the complete Bible",
+   }
 
 function getCurrentCity() {
 	return Sao_Luis_Brazil;
 }
 
- ```
+ ``
 
 <h3 align="center">Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
