@@ -72,6 +72,11 @@ function getCurrentCity() {
 
 <p align="center"> 
 <a href="https://www.mysql.com/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="mysql" width="100" height="100"/> </a> 
+</p><br>
+
+<p align="right"> 
+<a href="https://www.mysql.com/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="100" height="100"/> </a> 
 </p><br>
 
