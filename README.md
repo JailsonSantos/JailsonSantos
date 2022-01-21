@@ -5,7 +5,7 @@
 const AboutMe = {
       pronouns: "He" | "His",
       user: "Jailson Santos",
-      role: "Full Stack Developer Training ",
+      role: "Full Stack Developer Trainee ",
       company: "Moroh Software",
 
       hobbies: 
