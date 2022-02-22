@@ -41,6 +41,9 @@ function getCurrentCity() {
 <a href="https://www.typescriptlang.org/" target="_blank"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript"  height="35px"/> 
 </a>&nbsp; 
+<a href="https://camo.githubusercontent.com/ad7e3fc26ea2574642006cd00b537e82e2500a3b1b8edae1431be9bf9dec87d0/68747470733a2f2f7777772e7374796c65642d636f6d706f6e656e74732e636f6d2f61746f6d2e706e67" rel="noopener noreferrer" target="_blank">
+ <img src="https://camo.githubusercontent.com/ad7e3fc26ea2574642006cd00b537e82e2500a3b1b8edae1431be9bf9dec87d0/68747470733a2f2f7777772e7374796c65642d636f6d706f6e656e74732e636f6d2f61746f6d2e706e67" alt="styled-components" height="35x">
+</a>&nbsp;
 <a href="https://www.codecademy.com/learn/learn-sass" target="_blank"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" height="35px" />
 </a>&nbsp;
