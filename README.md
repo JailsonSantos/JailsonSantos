@@ -28,7 +28,7 @@ function getCurrentCity() {
 
 <h3 align="center">Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
-<p> 	
+<p align="center"> 	
 <a href="https://www.w3schools.com/css/" target="_blank"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" height="35px"/>
 </a>&nbsp;
@@ -68,10 +68,7 @@ function getCurrentCity() {
 <a href="https://git-scm.com/" target="_blank"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" height="35px" />
 </a>&nbsp;
-<a href="https://www.figma.com/" target="_blank"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" color="#FFFFF" alt="github" height="35px" />
-</a>&nbsp;
-<a href="https://www.figma.com/" target="_blank"> 
+<a href="https://www.npmjs.com/" target="_blank"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" height="35px" />
 </a>&nbsp;
 </p><br>
