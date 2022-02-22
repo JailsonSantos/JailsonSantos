@@ -44,7 +44,7 @@ function getCurrentCity() {
 <a href="https://www.codecademy.com/learn/learn-sass" target="_blank"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" height="35px" />
 </a>&nbsp;
-<a href="https://www.codecademy.com/learn/learn-sass" target="_blank"> 
+<a href="https://getbootstrap.com/" target="_blank"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" height="35px" />
 </a>&nbsp;
 <a href="https://reactjs.org/" target="_blank"> 
@@ -59,17 +59,17 @@ function getCurrentCity() {
 <a href="https://laravel.com/" target="_blank"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="laravel"  height="35px"/> 
 </a>&nbsp; 
-<a href="https://laravel.com/" target="_blank"> 	
+<a href="https://www.mysql.com/" target="_blank"> 	
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql"  height="35px"
 </a>&nbsp;
 <a href="https://www.figma.com/" target="_blank"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" height="35px" />
 </a>&nbsp;
-<a href="https://www.figma.com/" target="_blank"> 
+<a href="https://git-scm.com/" target="_blank"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" height="35px" />
 </a>&nbsp;
 <a href="https://www.figma.com/" target="_blank"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" color="light" alt="github" height="35px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" color="#FFFFF" alt="github" height="35px" />
 </a>&nbsp;
 <a href="https://www.figma.com/" target="_blank"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" height="35px" />
