@@ -30,8 +30,12 @@ function getCurrentCity() {
 
 <p> 	
 <a href="https://www.w3schools.com/css/" target="_blank"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" height="35px"/>
+</a>&nbsp; 
+<a href="https://www.w3schools.com/css/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="35px"/> 
 </a>&nbsp; 
+	
 <a href="https://www.w3schools.com/html/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="35px"/> 
 </a>&nbsp; 
