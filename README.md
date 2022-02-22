@@ -28,13 +28,7 @@ function getCurrentCity() {
 
 <h3 align="center">Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
-<p> 
-	
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a>
-	
-	
+<p> 	
 <a href="https://www.w3schools.com/css/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="35px"/> 
 </a>&nbsp; 
@@ -51,7 +45,7 @@ function getCurrentCity() {
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react"  height="35px"/>
 </a>&nbsp; 
 <a href="https://reactnative.dev/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnative/reactnative-original-wordmark.svg" alt="react" height="35px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnative/react-native-original-wordmark.svg" alt="react" height="35px"/>
 </a>&nbsp; 
 <a href="https://nodejs.org/en/docs/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs"  height="35px"/>
