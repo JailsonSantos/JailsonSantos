@@ -31,7 +31,6 @@ function getCurrentCity() {
 <p> 	
 <a href="https://www.w3schools.com/css/" target="_blank"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" height="35px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 </a>&nbsp;
 <a href="https://www.w3schools.com/html/" target="_blank"> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" height="35px"/> 
@@ -39,15 +38,15 @@ function getCurrentCity() {
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript"  height="35px"/>
 </a>&nbsp;
+<a href="https://www.typescriptlang.org/" target="_blank"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript"  height="35px"/> 
+</a>&nbsp; 
 <a href="https://www.codecademy.com/learn/learn-sass" target="_blank"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" height="35px" />
 </a>&nbsp;
 <a href="https://www.codecademy.com/learn/learn-sass" target="_blank"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" height="35px" />
 </a>&nbsp;
-<a href="https://www.typescriptlang.org/" target="_blank"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript"  height="35px"/> 
-</a>&nbsp; 
 <a href="https://reactjs.org/" target="_blank"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react"  height="35px"/>
 </a>&nbsp; 
