@@ -17,10 +17,16 @@ const AboutMe = {
 	     "Watch Cartoons",
          ], 
       challenge: 
-      	{
-      	     "title" : "Read the complete Bible.",
-	     "status" : "Successfully Completed."
-  	}
+      	[
+      	     {
+	     	"title" : "Read the complete Bible.",
+	     	"status" : "Successfully Completed."
+	     },
+	     {
+	     	"title" : "Finish the Ignite trail in Rocketseat's Node.JS.",
+	     	"status" : "In progress"
+	     },
+  	]
 
 function getCurrentCity() {
 	return Sao_Luis_Brazil;
