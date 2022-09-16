@@ -15,10 +15,12 @@ const AboutMe = {
 	     "Electronic Games",
 	     "Study Technologies",
 	     "Watch Cartoons",
-         ],
-	 
-      challenge: "Read the complete Bible",
-   }
+         ], 
+      challenge: 
+      	{
+      	     "title" : "Read the complete Bible.",
+	     "status" : "Successfully Completed."
+  	}
 
 function getCurrentCity() {
 	return Sao_Luis_Brazil;
