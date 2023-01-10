@@ -22,11 +22,11 @@ const AboutMe = {
 	     	"title" : "Read the complete Bible.",
 	     	"status" : "Successfully Completed."
 	     }, 
-	        {
+	     {
 	     	"title" : "Finish the Ignite trail in Rocketseat's React.JS 2022 e 2023.",
 	     	"status" : "Successfully Completed."
 	     },
-	        {
+	     {
 	     	"title" : "Finish the Ignite trail in Rocketseat's React Native 2022 e 2023.",
 	     	"status" : "Successfully Completed."
 	     },
