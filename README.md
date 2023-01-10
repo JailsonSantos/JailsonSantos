@@ -91,6 +91,12 @@ function getCurrentCity() {
 <a href="https://www.mysql.com/" target="_blank"> 	
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql"  height="35px"
 </a>&nbsp;
+<a href="https://www.mysql.com/" target="_blank"> 	
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"  alt="postgresql"  height="35px"
+</a>&nbsp;
+<a href="https://www.mysql.com/" target="_blank"> 	
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"  alt="mongodb"  height="35px"
+</a>&nbsp;
 <a href="https://www.figma.com/" target="_blank"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" height="35px" />
 </a>&nbsp;
