@@ -74,10 +74,8 @@ function getCurrentCity() {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react"  height="35px"/>
 </a>&nbsp; 
 <a href="https://reactjs.org/" target="_blank"> 
-  <img src="https://infillion.com/wp-content/uploads/2020/02/react-native.jpg" alt="react-native"  height="35px"/>
+  <img src="https://banner2.cleanpng.com/20180820/csy/kisspng-react-native-native-apps-parallel-fr-android-un-react-native-5b7a5c48d78603.7634975615347456728828.jpg" 	alt="react-native"  height="35px"/>
 </a>&nbsp; 
-	
-	
 <a href="https://nodejs.org/en/docs/" target="_blank"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs"  height="35px"/>
 </a>&nbsp; 
