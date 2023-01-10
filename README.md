@@ -73,11 +73,11 @@ function getCurrentCity() {
 <a href="https://reactjs.org/" target="_blank"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react"  height="35px"/>
 </a>&nbsp; 
-<a href="https://reactjs.org/" target="_blank"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"  alt="docker"  height="35px"/>
-</a>&nbsp; 
 <a href="https://nodejs.org/en/docs/" target="_blank"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs"  height="35px"/>
+</a>&nbsp; 
+<a href="https://reactjs.org/" target="_blank"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"  alt="docker"  height="35px"/>
 </a>&nbsp; 
 <a href="https://www.php.net" target="_blank"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php"  height="35px"/>
@@ -97,6 +97,9 @@ function getCurrentCity() {
 <a href="https://www.npmjs.com/" target="_blank"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" height="35px" />
 </a>&nbsp;
+<a href="https://www.npmjs.com/" target="_blank"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="yarn" height="35px" />
+</a>&nbsp;	
 </p><br>
 
 <h3 align="center">Connect with me:</h3>
